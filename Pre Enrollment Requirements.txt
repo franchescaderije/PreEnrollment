@@ -1,0 +1,20 @@
+PRE ENROLMENT
+
+>REMARKS, DATE, VALIDATED BY(STRINGS), ENCODED BY(STRINGS), ID, IDNUM
+> ID, IDNUM, COURSE NO., TERM
+> ENROLMENT STAT > Courseno, no. students, term
+> Create a UI (WEB BASED), using mysql to transfer data. 
+
+
+QUERIES:
+1. STATISTICS > courseno, desc, term
+	- Filtering: course, term, etc.
+2. LIST OF STUDENTS WHO HAVE NOT YET ENROLED
+	- students from 'STUDENTS' who are not in 'PRE-ENROLMENT'
+3. LIST OF STUDENTS & THEIR UNITS 
+	-id, last, first, units
+
+DATA ENTRIES:
+1. SEARCH BAR: IDNUMBER 
+
+  
